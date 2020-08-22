@@ -9,5 +9,4 @@ def reverse_each_word(str)
     end
     word.reverse
   }.join
-  end
 end
