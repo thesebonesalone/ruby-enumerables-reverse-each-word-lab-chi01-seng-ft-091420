@@ -7,7 +7,6 @@ def reverse_each_word(str)
     if word != new_array[0]
       word = word + " "
     end
-   new_string + word.reverse
   end
-  new_string
+  word
 end
